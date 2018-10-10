@@ -1,4 +1,4 @@
-var client_id = 'CLIENT_ID'; // Your client id
-var client_secret = 'CLIENT_SECRET'; // Your secret
-var redirect_uri = 'REDIRECT_URI'; // Your redirect uri
-var scopes = 'user-read-private user-read-email';
+var client_id = 'CLIENT_ID'; 
+var client_secret = 'CLIENT_SECRET'; 
+var redirect_uri = 'http://localhost:8888'; 
+var scopes = 'user-read-private user-read-email user-read-recently-played user-read-currently-playing user-library-read user-top-read user-read-playback-state';
